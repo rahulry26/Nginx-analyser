@@ -16,5 +16,7 @@ Top 5 user agents
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 step1: Make the ".log" file in which paste all the data of nginx logs 
 step2: Now make the ".sh" file for the script to get the required output script i have added in the "log-analysis.sh" file
+step3: chmod +x log-analysis.sh 
+step4: run the cmd "./log-analysis.sh"
 ![image](https://github.com/user-attachments/assets/390fe387-5a9e-4a22-bcaf-06810c52be98)
 
